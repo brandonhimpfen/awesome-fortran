@@ -46,6 +46,7 @@
 - [Make](https://www.gnu.org/software/make/) – Traditional build automation tool commonly used with Fortran.
 - [Meson](https://mesonbuild.com/) – Modern build system with Fortran support.
 - [FORD](https://github.com/Fortran-FOSS-Programmers/ford) – Automatic documentation generator for Fortran code.
+- [ffmt](https://github.com/sbryngelson/ffmt) – Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives, written in Rust.
 - [fprettify](https://github.com/pseewald/fprettify) – Code formatter for modern Fortran.
 
 ## Numerical & Scientific Libraries
