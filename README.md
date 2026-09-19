@@ -72,6 +72,7 @@
 - [f2py](https://numpy.org/doc/stable/f2py/) – Tool for connecting Fortran code with Python via NumPy.
 - [ISO_C_BINDING Examples](https://fortranwiki.org/fortran/show/iso_c_binding) – Practical examples of C interoperability.
 - [SWIG](https://www.swig.org/) – Tool for generating bindings between Fortran, C, and higher-level languages.
+- [nativegate](https://github.com/ravikings/nativegate) – Generates the full modernization path from legacy Fortran/C++: f2py/pybind11 bindings, a Python package, a FastAPI service, tests, Docker/Kubernetes artifacts, and numerical golden-record regression checks.
 
 ## Testing, Debugging & Profiling
 
